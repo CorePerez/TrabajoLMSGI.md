@@ -15,6 +15,13 @@
 ## YAML:
 [YAML](https://en.wikipedia.org/wiki/YAML)  (Yet Another Markup Language) es un formato de serialización de datos legible por humanos. Aunque en ocasiones se utiliza como un formato de marcado, su diseño principal se enfoca en ser un formato de datos simple y fácil de leer. YAML es especialmente popular en la configuración de aplicaciones y en la definición de archivos de configuración debido a su sintaxis clara y concisa.
 
+**Características principales:**
+
+- **Legibilidad**: Es el mas legible de todos, por encima incluso de JSON.
+- **Datos admitidos**: Admite todos los datos mediante colecciones de datos anidados.
+- **Control de versiones**: Tiene control de versiones y además es muy fácil de analizar y comprender las diferencias entre las versiones.
+
+
 ## ¿Cuándo usar JSON o YAML?
 
 Gracias al soporte generalizado y la integración con JavaScript, JSON es un formato de serialización de datos más popular que YAML para la mayoría de los casos de uso. JSON se usa ampliamente en comunicaciones de software distribuidas, aplicaciones web, archivos de configuración y API.
